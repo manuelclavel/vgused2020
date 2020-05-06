@@ -1,14 +1,14 @@
 # Introduction
 
 ## Teaching methods of the module ##
->> Lectures: interactive lectures
->> Exercises: Teamwork in small groups
+> Lectures: interactive lectures
+> Exercises: Teamwork in small groups
 
 - Small teams of 3 students. Randomly generated.
 
 ## Prerequisites for module participation ##
->> Prerequisites: passing of all attestations parallel to
->> the unit ``Exercise-Software Engineering-Desing''
+> Prerequisites: passing of all attestations parallel to
+> the unit ``Exercise-Software Engineering-Desing''
 
 - Git private repository for each team
 
@@ -24,7 +24,7 @@ for each member of the team.
 
 ## Grading of the assessment
 ### Lecture
->> Differentiated
+> Differentiated
 ### Exercise
 - Undifferentiated
 
